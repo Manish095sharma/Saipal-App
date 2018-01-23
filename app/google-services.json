@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "914269540335",
+    "firebase_url": "https://hifirebaseproject-94892.firebaseio.com",
+    "project_id": "hifirebaseproject-94892",
+    "storage_bucket": "hifirebaseproject-94892.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914269540335:android:5fe868088ccb9684",
+        "android_client_info": {
+          "package_name": "com.example.rakesh.saipalchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914269540335-u82tnamv7ntcvl25ep06oc31bkuat599.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rakesh.saipalchatapp",
+            "certificate_hash": "ed890abcd3542e30395e2edcd0eecb652482e915"
+          }
+        },
+        {
+          "client_id": "914269540335-lucmenkvg7783n7vopa8qmj5i1s1ti0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe32Cuc69Ek6R_xHHuU0OMXwmiomHHF08"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914269540335-lucmenkvg7783n7vopa8qmj5i1s1ti0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

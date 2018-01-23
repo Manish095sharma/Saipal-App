@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SaipalChatApp</string>
+
+
+    <string name="action_logout">Logout</string>
+    <string name="Setting">Setting</string>
+
+    <string name="logout">Logout</string>
+    <string name="are_you_sure">Are you sure ?</string>
+    <string name="cancel">Cancel</string>
+    <string name="signup">SignUp</string>
+    <string name="status">Hi I am in saipal</string>
+    <string name="changepass">change password</string>
+    <string name="change_profile_image">Edit profile image</string>
+    <string name="change_name">Edit name</string>
+    <string name="change_status">Edit status</string>
+    <string name="profilesetting">Profile</string>
+    <string name="Accountsetting">Account</string>
+    <string name="privacysetting">Privacy</string>
+    <string name="generalsetting">General</string>
+    <string name="sign_in">Sign in</string>
+
+</resources>
